@@ -1,0 +1,5 @@
+__pycache__/
+lapis.egg-info/
+lapis_test.egg-info/
+.venv/
+.env
